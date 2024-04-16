@@ -22,6 +22,5 @@ body {
   width: 700px;
   margin: 10px auto;
   padding: 20px;
-  border: 5px solid rgb(135, 255, 209);
-  border-style: outset;
+  border: 5px outset #30e1b9;
 }
